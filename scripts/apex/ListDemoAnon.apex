@@ -1,0 +1,2 @@
+ListDemoAgain.randomIntegerList();
+ListDemoAgain.printAnimalsList();
